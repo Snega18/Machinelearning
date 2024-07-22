@@ -1,0 +1,14 @@
+youtube-adview-prediction/
+├── data/
+│   └── train.csv
+├── notebooks/
+│   └── EDA.ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+│   └── predict.py
+├── models/
+│   └── best_model.pkl
+├── README.md
+└── requirements.txt
